@@ -1,0 +1,53 @@
+/* Style page */
+
+body {
+    background-color: rgb(178, 143, 102);
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5rem;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style container */
+  
+  .container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Style header */
+  
+  .header {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  /* Style paragraph */
+  
+  .paragraph {
+    font-size: 1.2rem;
+  }
+  
+  /* Style about section */
+  
+  #about {
+    margin-top: 2rem;
+  }
+  
+  /* Style projects section */
+  
+  #projects {
+    margin-top: 2rem;
+  }
+  
+  /* Style footer section */
+  
+  #footer {
+    margin-top: 2rem;
+  }
+  
