@@ -1,4 +1,4 @@
-# personal_page
+# Personal Page
 
 Welcome to my Portfolio page. 
 
